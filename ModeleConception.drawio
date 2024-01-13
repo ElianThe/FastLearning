@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T12:58:19.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="rTTxM-1r_Nuzc1lu3u7N" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T13:49:03.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="esy7opDVRXoWo53g0WFt" version="22.1.18" type="github">
   <diagram name="Page-1" id="O5cp-iWvGMD85_8pqfXW">
     <mxGraphModel dx="1002" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MQX2fgqR-gd69yyjQIBZ-1" value="Carte" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="180" width="140" height="210" as="geometry" />
+          <mxGeometry x="160" y="180" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="MQX2fgqR-gd69yyjQIBZ-2" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="MQX2fgqR-gd69yyjQIBZ-1" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -22,8 +22,11 @@
         <mxCell id="MQX2fgqR-gd69yyjQIBZ-10" value="apprendre : booléan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="MQX2fgqR-gd69yyjQIBZ-1" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vNxwJtx3IvfSbrrLiOxY-1" value="timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="MQX2fgqR-gd69yyjQIBZ-1">
+        <mxCell id="vNxwJtx3IvfSbrrLiOxY-9" value="time : temps" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="MQX2fgqR-gd69yyjQIBZ-1">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vNxwJtx3IvfSbrrLiOxY-1" value="timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="MQX2fgqR-gd69yyjQIBZ-1">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQX2fgqR-gd69yyjQIBZ-5" value="Dossier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="225" width="140" height="90" as="geometry" />
